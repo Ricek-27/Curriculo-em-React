@@ -20,7 +20,7 @@ function Curriculum() {
       <h3>Experiência</h3>
       <ul>
         <li>Umana Brasil - Repositor de FLV (2023–2024)</li>
-        <li>Empresa Y - Estagiário de TI (2024–Atualmente)</li>
+        <li>Novo atacarejo LTDA - Repositor de FLV (2024–Atualmente)</li>
       </ul>
 
       <h3>Educação</h3>
